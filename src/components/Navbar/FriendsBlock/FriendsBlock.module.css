@@ -1,0 +1,13 @@
+.friendsBlock {
+    padding: 20px 0;
+}
+
+.friendsRow {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    text-align: center;
+    text-transform: uppercase;
+}
